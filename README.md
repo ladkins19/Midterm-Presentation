@@ -24,5 +24,13 @@ Photos
 Transcribed “cookbook”
 Transcribed journal
 
+
+An example of man-made cytoskeleton, a theoretical model:
+
+
 ![alt text](https://github.com/ladkins19/Midterm-Presentation/blob/master/Picture1%202.png)
-![alt text](https://github.com/ladkins19/Lab-Visit/blob/master/Picture1.png)
+
+An example of what it *might* look like to create an organic cell from man-made material
+
+
+![alt text](https://github.com/ladkins19/Midterm-Presentation/blob/master/Picture4.png)
