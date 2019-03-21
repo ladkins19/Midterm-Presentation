@@ -24,3 +24,5 @@ Photos
 Transcribed “cookbook”
 Transcribed journal
 
+![alt text](https://github.com/ladkins19/Lab-Visit/blob/master/Picture1.png)
+![alt text](https://github.com/ladkins19/Lab-Visit/blob/master/Picture1.png)
